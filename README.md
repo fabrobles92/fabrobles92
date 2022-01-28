@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fabrobles92
-- 👀 I’m interested in Web Deveopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN Stack (Mongo Express React Node)
 - 📫 How to reach me: fabrobles92@gmail.com
 
