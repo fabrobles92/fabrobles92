@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fabrobles92
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack (Mongo Express React Node)
+- 🌱 I’m currently coding in  MERN Stack (Mongo Express React Node) and Python + Django
 - 📫 How to reach me: fabrobles92@gmail.com
 - https://www.fabricio-robles.com
 <!---
